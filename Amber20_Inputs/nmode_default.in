@@ -1,0 +1,8 @@
+MM-PBSA, using deafult settings, two term non-polar term with default parameters for this opt scheme
+&general
+startframe=1, endframe=1500, interval=15
+verbose=2, keep_files=0,
+/
+&nmode
+dielc=1.0,
+/
